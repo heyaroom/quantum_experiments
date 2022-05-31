@@ -1,6 +1,6 @@
 # QeX
 
-Library for supproting following experiments.
+Library for supproting following experiments with [sequence_parser](https://github.com/qipe-nlab/sequence_parser).
 
 ## Supported experimetns
   - [Randomized benchmarking](https://arxiv.org/abs/0707.0963)
