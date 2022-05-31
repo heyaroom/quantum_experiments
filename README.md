@@ -43,8 +43,3 @@ rb.make_data_table()
 rb.make_report()
 rb.show_report()
 ```
-
-## To Do
-  - Add setup.py and requirement.txt
-  - Add more detail condition on dataset (projector dataset id, clique index)
-  - Generalize the driver
